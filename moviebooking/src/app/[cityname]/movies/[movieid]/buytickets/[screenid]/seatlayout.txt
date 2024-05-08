@@ -1,0 +1,635 @@
+{
+    "_id": "65f850004e4353989762b688",
+    "name": "kahsal",
+    "location": "PVR",
+    "seats": [
+        {
+            "type": "platinum",
+            "rows": [
+                {
+                    "rowname": "H",
+                    "cols": [
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "rowname": "G",
+                    "cols": [
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "rowname": "F",
+                    "cols": [
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "price": 500
+        },
+        {
+            "type": "gold",
+            "rows": [
+                {
+                    "rowname": "E",
+                    "cols": [
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "rowname": "D",
+                    "cols": [
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "rowname": "C",
+                    "cols": [
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "price": 300
+        },
+        {
+            "type": "silver",
+            "rows": [
+                {
+                    "rowname": "B",
+                    "cols": [
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "rowname": "A",
+                    "cols": [
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "seats": [
+                                {
+                                    "seat_id": "1"
+                                },
+                                {
+                                    "seat_id": "2"
+                                },
+                                {
+                                    "seat_id": "3"
+                                },
+                                {
+                                    "seat_id": "4"
+                                },
+                                {
+                                    "seat_id": "5"
+                                },
+                                {
+                                    "seat_id": "6"
+                                },
+                                {
+                                    "seat_id": "7"
+                                },
+                                {
+                                    "seat_id": "8"
+                                },
+                                {
+                                    "seat_id": "9"
+                                },
+                                {
+                                    "seat_id": "10"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "price": 150
+        }
+    ],
+    "city": "surat",
+    "screenType": "4D",
+    "movieSchedules": [
+        {
+            "movieId": "65f87beff1b532279e65becc",
+            "showTime": "01:51",
+            "showDate": "2024-03-31T00:00:00.000Z",
+            "_id": "66042b766802524d7ec99384",
+            "notAvailableSeats": []
+        },
+        {
+            "movieId": "65f87beff1b532279e65becc",
+            "showTime": "04:57",
+            "showDate": "2024-03-31T00:00:00.000Z",
+            "_id": "66042b866802524d7ec99389",
+            "notAvailableSeats": []
+        },
+        {
+            "movieId": "66041149832d83b3d941634e",
+            "showTime": "02:00",
+            "showDate": "2024-03-29T00:00:00.000Z",
+            "_id": "66042d9f6802524d7ec99701",
+            "notAvailableSeats": []
+        }
+    ],
+    "__v": 3
+}
